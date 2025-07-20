@@ -73,7 +73,7 @@ Design and implement a **traffic light controller** for a 3-way intersection tha
 - **East Green Signal Display**
 - **West Green / Yellow Signal**
 - **North Green Signal**
-> *(screenshots of HMI screens are in `/images` folder)*
+> *(screenshots of HMI screens and Ladder logic are in `/images` folder)*
 
 ---
 
